@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82fbcc07-fa0c-4cc7-844d-4cc8baf1e59d" name="Default Changelist" comment="Косметические правки.">
+    <list default="true" id="82fbcc07-fa0c-4cc7-844d-4cc8baf1e59d" name="Default Changelist" comment="Добавление txt для скачивания.">
+      <change afterPath="$PROJECT_DIR$/ReadMe.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,15 +73,13 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager" selected="Gradle.SeachTest">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -150,6 +149,7 @@
       <workItem from="1616666240015" duration="244000" />
       <workItem from="1617200040973" duration="286000" />
       <workItem from="1617200369188" duration="328000" />
+      <workItem from="1617975687314" duration="73000" />
     </task>
     <task id="LOCAL-00001" summary="added selenide search test">
       <created>1615906455988</created>
@@ -172,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617200128872</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Добавление txt для скачивания.">
+      <created>1617975754623</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1617975754623</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,6 +201,7 @@
     <MESSAGE value="added selenide search test" />
     <MESSAGE value="ExamplesClases" />
     <MESSAGE value="Косметические правки." />
-    <option name="LAST_COMMIT_MESSAGE" value="Косметические правки." />
+    <MESSAGE value="Добавление txt для скачивания." />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавление txt для скачивания." />
   </component>
 </project>
